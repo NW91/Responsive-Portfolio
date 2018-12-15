@@ -275,4 +275,8 @@ input[type=submit] {
    margin-top: -6%;
  }
 
+ header {
+   position: static;
+ }
+
 }
